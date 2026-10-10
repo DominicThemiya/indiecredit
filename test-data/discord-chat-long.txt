@@ -1,0 +1,82 @@
+#lighthouse-general — Saturday, October 10, 2026
+
+[9:02 AM] sam_lighthouse: morning all ☕
+[9:02 AM] sam_lighthouse: did anyone else's build break overnight or is it just me
+[9:04 AM] priya.codes: just you lol. did you pull main?
+[9:05 AM] sam_lighthouse: ...no
+[9:05 AM] priya.codes: pull main
+[9:11 AM] sam_lighthouse: ok it works. i am a professional
+[9:12 AM] priya.codes: 👏
+[9:15 AM] jules_lpc: reminder that the Steam page fee is $100 and I put it on my card, pls don't forget me at reimbursement time
+[9:16 AM] sam_lighthouse: noted. also we owe Leo the $1,200 for the dock assets, I'll send the e-transfer today
+[9:16 AM] jules_lpc: 👍
+[9:20 AM] maya.chen.art: morning! sorry, just catching up, my cat sat on my tablet and sent 400 'j's to my mom
+[9:21 AM] priya.codes: iconic
+[9:21 AM] sam_lighthouse: MAYA. perfect timing. hey can you do some character portraits for our game? painterly style, like the stuff in your portfolio
+[9:22 AM] maya.chen.art: ooh yes probably! how many and for who?
+[9:23 AM] sam_lighthouse: 4? Captain Wren, Tinker, Old Marlowe the lighthouse keeper, and the ferry ghost
+[9:23 AM] jules_lpc: the ferry ghost isn't even written yet
+[9:24 AM] sam_lighthouse: he's written in my heart
+[9:24 AM] jules_lpc: cut him. 3 portraits. Wren, Tinker, Marlowe
+[9:25 AM] sam_lighthouse: fine. 3. rip ferry ghost
+[9:26 AM] priya.codes: unrelated but does anyone know why the dialogue box flickers at 144hz
+[9:26 AM] priya.codes: nvm it was vsync
+[9:27 AM] maya.chen.art: ok 3 portraits. full body or bust?
+[9:28 AM] sam_lighthouse: they show up in the dialogue box so like waist-up? bust is fine too
+[9:28 AM] jules_lpc: waist up please, the dialogue UI crops at the belt
+[9:29 AM] maya.chen.art: waist-up, got it. do you need expressions? like happy/angry variants
+[9:30 AM] sam_lighthouse: uhhh
+[9:30 AM] jules_lpc: just one neutral expression each for now. expressions can be a later thing
+[9:31 AM] maya.chen.art: 👍 one neutral each
+[9:33 AM] priya.codes: is anyone ordering lunch. i will venmo. i want the garlic fingers
+[9:34 AM] sam_lighthouse: it's 9:30 priya
+[9:34 AM] priya.codes: and yet
+[9:35 AM] jules_lpc: I'll order at noon. $46 for two larges and garlic fingers, split 3 ways
+[9:36 AM] sam_lighthouse: back to portraits. maya we need them in ~2 weeks, budget around $900?
+[9:38 AM] maya.chen.art: hmm. 2 weeks is tight, I'm away at my cousin's wedding next weekend and the game jam thing is due the 17th
+[9:38 AM] sam_lighthouse: oh right the jam. are you doing the pixel art one
+[9:39 AM] maya.chen.art: yeah lol 48 hours of regret
+[9:40 AM] maya.chen.art: could I have until Friday Oct 30? that's just under 3 weeks
+[9:41 AM] jules_lpc: we need them in the build for the Nov 6 playtest so the 30th works
+[9:41 AM] sam_lighthouse: 30th is fine 👍
+[9:43 AM] maya.chen.art: and on price, waist-up painterly is more work than busts. I'd usually do $350 each for these, so $1,050
+[9:44 AM] sam_lighthouse: oof. we really budgeted 900
+[9:45 AM] priya.codes: we also budgeted 0 for the garlic fingers and yet here we are
+[9:46 AM] jules_lpc: could we meet at $1,000 flat for the three?
+[9:47 AM] maya.chen.art: $1,000 CAD works for me 🙂 can I get half up front?
+[9:48 AM] jules_lpc: yep, 50% to start and 50% when you deliver
+[9:48 AM] maya.chen.art: perfect
+[9:50 AM] sam_lighthouse: did anyone see the new trailer for that deckbuilder with the crabs
+[9:51 AM] priya.codes: CRAB DECK. yes. the music slaps
+[9:52 AM] sam_lighthouse: we should have crabs
+[9:52 AM] jules_lpc: we are not adding crabs
+[9:55 AM] maya.chen.art: what file format do you need?
+[9:56 AM] priya.codes: PNG with transparent background please. 2048 x 2048. the engine scales them down
+[9:57 AM] priya.codes: and the layered PSDs if you can, in case we need to tweak colours later
+[9:57 AM] maya.chen.art: sure, PNG 2048 square transparent + layered PSD for each
+[9:58 AM] sam_lighthouse: what about changes? like if we don't love the first pass
+[9:59 AM] maya.chen.art: I include 2 rounds of revisions per portrait. after that it's $40/hr
+[10:00 AM] jules_lpc: 2 rounds is plenty
+[10:02 AM] priya.codes: hey sam the save system test is failing again, can you look at PR 212
+[10:03 AM] sam_lighthouse: after lunch
+[10:03 AM] priya.codes: it's 10
+[10:04 AM] sam_lighthouse: after garlic fingers
+[10:06 AM] maya.chen.art: oh also is it ok if I post these in my portfolio?
+[10:07 AM] jules_lpc: yes but not until after we put out the announcement trailer. everything's under wraps till then
+[10:08 AM] maya.chen.art: totally fine, I'll wait for the trailer
+[10:09 AM] sam_lighthouse: also maya down the road we might want like 8 enemy sprites too but that's a maybe, don't count it
+[10:10 AM] maya.chen.art: haha ok, shout when it's real
+[10:12 AM] maya.chen.art: do you have reference sheets for the three?
+[10:13 AM] sam_lighthouse: Wren and Tinker yes, I'll drop them in #art-refs. Marlowe is still just a paragraph in the design doc
+[10:14 AM] maya.chen.art: paragraph is ok to start, I'll send a rough sketch of him first
+[10:15 AM] jules_lpc: love that
+[10:17 AM] priya.codes: ok who took my charger
+[10:18 AM] sam_lighthouse: not me
+[10:18 AM] jules_lpc: it's under the couch. it's always under the couch
+[10:19 AM] priya.codes: 🙏
+[10:21 AM] sam_lighthouse: ok so maya we're good? 3 portraits, the 30th, a thousand bucks
+[10:22 AM] maya.chen.art: we're good! I'll start sketches Monday 🎨
+[10:22 AM] sam_lighthouse: LET'S GOOO
+[10:23 AM] jules_lpc: thanks Maya!
+[10:25 AM] priya.codes: garlic fingers status?
+[10:25 AM] jules_lpc: priya.
