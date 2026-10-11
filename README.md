@@ -11,6 +11,11 @@ AI does the organizing; human reviewers check records before anything is filed.
 > Built in a few hours for the Tribe hackathon. It is a demo, not a finished product: see
 > [What's real vs. simulated](#whats-real-vs-simulated).
 
+## Team
+
+- Dominic Themiya ([@DominicThemiya](https://github.com/DominicThemiya))
+- Savina ([@savinadp](https://github.com/savinadp))
+
 ## Run it
 
 ```bash
