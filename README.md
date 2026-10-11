@@ -8,6 +8,9 @@ AI does the organizing; human reviewers check records before anything is filed.
 
 **IndieCredit does not file taxes or give tax advice.** All demo data is fictional.
 
+> Built in a few hours for the Tribe hackathon. It is a demo, not a finished product: see
+> [What's real vs. simulated](#whats-real-vs-simulated).
+
 ## Run it
 
 ```bash
